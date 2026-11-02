@@ -1,8 +1,8 @@
 # C++ Programming Assignment 1
 ## Basic C++ Programming — Arithmetic Operators
 
-**Student:** Qudrat Khan  
-**Roll No.:** 31  
+**Student:** Waqas Akbar Khan 
+**Roll No.:** 15
 **Subject:** Programming Fundamentals  
 **Teacher:** Dr. Waseem  
 **College:** Government Graduate College Mianwali
@@ -28,26 +28,3 @@ This repository contains 10 separate beginner-level C++ programs based on the as
 8. `08_water_tank_capacity.cpp` — calculates tank volume and capacity in litres.
 9. `09_simple_profit.cpp` — calculates total purchase cost, sales revenue, and profit/loss.
 10. `10_time_conversion.cpp` — converts seconds into hours, minutes, and remaining seconds.
-
-## How to compile and run
-Using a C++ compiler such as g++:
-
-```bash
-g++ 01_shopping_bill.cpp -o shopping_bill
-./shopping_bill
-```
-
-On Windows, run the generated program as:
-
-```bash
-shopping_bill.exe
-```
-
-Repeat with the desired source filename and a matching output name. In Dev-C++, open one `.cpp` file, then choose **Execute > Compile & Run**.
-
-## Notes
-- Enter valid numeric values.
-- For the restaurant bill program, enter a non-zero number of friends.
-- For the petrol program, enter a non-zero average fuel efficiency (km/litre).
-- The age conversions are approximate and use the assignment's assumptions: 12 months, 52 weeks, and 365 days per year.
-- The profit/loss result is sales revenue minus purchase cost: positive means profit, negative means loss.
